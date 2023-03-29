@@ -1,0 +1,17 @@
+name: opencv
+channels:
+  - defaults
+dependencies:
+  - opencv
+  - pkg-config
+  - gxx_linux-64
+  - mesa-libgl-devel-cos6-x86_64
+  - libx11-devel-cos6-x86_64
+  - libxfixes-cos6-x86_64
+  - mesa-dri-drivers-cos6-x86_64
+  - libxfixes-devel-cos6-x86_64
+  - libxau-devel-cos6-x86_64
+  - libxdamage-devel-cos6-x86_64
+  - libxext-devel-cos6-x86_64
+  - libselinux-devel-cos6-x86_64
+  - libxxf86vm-devel-cos6-x86_64
